@@ -1,13 +1,19 @@
 # netflix-data-analysis
+Interactive Power BI dashboard analysing streaming platform content trends, genre distribution, and release patterns.
+
+This project demonstrates data modelling, trend analysis, and dashboard development using Power BI to explore insights within streaming platform content datasets.
+
+View Interactive Dashboard:
+https://app.powerbi.com/links/iFfhI5fxy2?ctid=bd697c1b-c481-479c-841e-c618542675c3&pbi_source=linkShare
+
+
+
 Project Overview
 
 This project analyses streaming platform content data to identify trends in content distribution, genre popularity, and release patterns. The goal is to explore how streaming platforms organise their content and to demonstrate data modelling, trend analysis, and dashboard development using Power BI.
 
 An interactive dashboard was built to visualise key metrics and allow users to explore the dataset through filters and dynamic visuals.
 
-
-Power BI Dashboard:
-https://app.powerbi.com/links/iFfhI5fxy2?ctid=bd697c1b-c481-479c-841e-c618542675c3&pbi_source=linkShare
 
 
 Business Questions
