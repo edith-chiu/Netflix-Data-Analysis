@@ -56,7 +56,7 @@ Drama and comedy are among the most dominant genres across platforms.
 Platform catalogues show different genre specialisations depending on their target audiences.
 
 
-Tools Used
+Tools Used:
 
 Power BI
 
@@ -68,7 +68,8 @@ Data visualisation
 
 
 
-Skills Demonstrated
+
+Skills Demonstrated:
 
 Data modelling
 
