@@ -1,4 +1,4 @@
-# streaming-platform-analysis
+# netflix-data-analysis
 Project Overview
 
 This project analyses streaming platform content data to identify trends in content distribution, genre popularity, and release patterns. The goal is to explore how streaming platforms organise their content and to demonstrate data modelling, trend analysis, and dashboard development using Power BI.
@@ -13,31 +13,47 @@ Business Questions
 
 The analysis explores several key questions:
 How has streaming content production changed over time?
+
 Which genres are most common across streaming platforms?
 
 
 Data Model
 The dataset was structured into a relational model to support efficient analysis and reporting. Multiple tables were connected using key relationships, enabling cross-table analysis of content, genres, ratings, and platform information.
+
 This structured approach improves data consistency and supports flexible analysis within Power BI.
 
 
 Dashboard Features
 
 The Power BI dashboard includes:
+
 KPI indicators summarising key metrics
+
 Trend analysis of content releases over time
+
 Genre distribution analysis
+
 Interactive slicers for dynamic filtering
 
 Key Insights
+
 Some key insights identified from the analysis include:
+
 Certain platforms have significantly larger content catalogues than others.
+
 Content production increased substantially in recent years as streaming platforms expanded globally.
+
 Drama and comedy are among the most dominant genres across platforms.
+
 Platform catalogues show different genre specialisations depending on their target audiences.
 
+
 Tools Used
+
 Power BI
+
 DAX
+
 Data modelling
+
 Data visualisation
