@@ -28,6 +28,8 @@ Which genres are most common across streaming platforms?
 ## Data Model
 The dataset was structured into a relational model to support efficient analysis and reporting. Multiple tables were connected using key relationships, enabling cross-table analysis of content, genres, ratings, and platform information.
 
+![Dashboard Preview](streaming_schema.jpg)
+
 This structured approach improves data consistency and supports flexible analysis within Power BI.
 
 
